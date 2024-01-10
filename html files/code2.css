@@ -1,0 +1,22 @@
+.main
+{
+	height:100%;
+	width: 100%;
+	background-color:white;
+	background-size: cover;
+	border-radius: 8px;
+}
+.p
+{
+	color: black;
+	margin-right: 3px;
+}
+*
+{
+	padding:5px;
+	margin:5px;
+	
+}
+body{
+	background-color: lightgray;
+}

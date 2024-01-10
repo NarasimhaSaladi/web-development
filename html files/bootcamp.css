@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: skyblue;
+  color: #fff;
+  padding: 20px;
+}
+
+nav {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin:7px;
+}
+
+nav ul li a {
+  color: skyblue;
+  text-decoration: none;
+  padding: 5px;
+}
+
+nav ul li a:hover {
+  background-color: skyblue;
+  color: #fff;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: black;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}

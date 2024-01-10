@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>form | input fields</title>
+	<style type="text/css">
+		div
+		{
+			border-style:outset;
+			border-color: skyblue;
+		}
+
+	</style>
+</head>
+<body>
+	<center>
+<form action="backend" >
+	<ol>
+	<h2>FORM</h2>
+	<br>
+
+	<div>
+	<label for="name">Enter Your Name</label>
+	<!-- this helps u if u click on name it will direct u to input box -->
+	<input type="text"value="" placeholder="enter name" id="name"><br>
+	</div>
+	<br>
+
+	<div>
+	<label>Enter Your Mobile Number</label>
+	<input type="text" placeholder="enter mobile number"maxlength="10"required>
+	</div>
+
+	<br>
+
+	<div>
+	<label>Enter Your Password </label>
+	<input type="password" placeholder="enter pass"><br>
+	</div>
+	
+	<label>Enter Your DOB</label>
+	<input type="date" name=""><br>
+
+
+	<label>enter ur email</label>
+	<input type="email" name=""autofocus><br>
+
+
+	<label>gender</label>
+	<input type="radio" name="gender">male
+	<input type="radio" name="gender">female<br>
+
+
+	<label>colleges</label>
+	<select>
+		<option>acet</option>
+		<option>acoe</option>
+		<option>aec</option>
+	</select>
+	<br>
+
+
+	<label>course</label>
+	<input type="radio" name="course">c
+	<input type="radio" name="course">DSA
+	<input type="radio" name="course">pyhton
+	<br>
+
+
+	<label>adress</label>
+	<textarea>
+		
+	</textarea>
+	<br>
+
+
+	<label>upload</label>
+	<input type="file" name="">
+	<br>
+
+
+	<label>range 0-100</label>
+	<input type="range" name="">
+	<br>
+
+
+	<input type="submit" name="">
+
+	<input type="reset" name="">
+	<br>
+
+	<label>select any number </label>
+	<input type="number"name="">
+    <br>
+
+
+	<label>are u eligible?</label>
+	yes:<input type="checkbox" name="samename"checked>
+	no:<input type="checkbox" name="samename">
+	</ol>
+	
+</form>
+</center>
+
+</body>
+</html>
+//placeholder,required,autofocus,autocomplete,value,readonly

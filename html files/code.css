@@ -1,0 +1,26 @@
+.name
+{
+    font-family: bold;
+    color:black;
+}
+.a center{
+    height: fit-content;
+    background-color: lightskyblue;
+    color:white;
+    border:solid;
+    border-radius:4px;
+}
+.b center{
+    height: fit-content;
+    background-color:rgb(88, 88, 133);;
+    color:white;
+    border:solid;
+    border-radius:4px;
+}
+.c center{
+    height: fit-content;
+    background-color: lightskyblue;
+    color:white;
+    border:solid;
+    border-radius:4px;
+}

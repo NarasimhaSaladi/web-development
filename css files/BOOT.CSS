@@ -1,0 +1,151 @@
+.col-sm-20{
+  text-align: center;
+  font-size: 40px;
+  color: skyblue;
+  font-weight:bold;
+  box-shadow: 20px;
+}
+.logo{
+  color: rgb(0, 58, 59);
+}
+h3{
+  color: rgb(59, 255, 115);
+}
+.sub{
+  color:skyblue;
+}
+.active{
+  background-color:#F9E2AF;
+  height:500px;
+}
+/*.a{
+  height:300x;
+  width:280px;
+  background-color:#FDF4F5;
+    float:left;
+    border-radius:20px;
+}*/
+.b{
+  height:300px;
+  width:280px;
+  background-color:#FDF4F5;
+    float:left;
+    border-radius:20px;
+    padding: 10px;
+}
+.c{
+  height:300px;
+  width:280px;
+  background-color:#FDF4F5;
+    float:left;
+    border-radius:20px;
+    padding:10px;
+}
+.d{
+  height:300px;
+  width:280px;
+  background-color:#FDF4F5;
+    float:left;
+    border-radius:20px;
+    padding:10px;
+}
+.e{
+  height:280px;
+  width:550px;
+  background-color:white;
+    float:left;
+    border-radius:20px;
+}
+.f{
+  height:280px;
+  width:550px;
+  background-color:white;
+    float:left;
+    border-radius:20px;
+}
+.passive{
+  background-color: #CBEFDE;
+  height:380px;
+}
+.g{
+  height:350px;
+  width:320px;
+  background-color:white;
+    float:left;
+    border-radius:20px;
+}
+.h{
+  height:350px;
+  width:320px;
+  background-color:white;
+    float:left;
+    border-radius:20px;
+}
+.i{
+  height:350px;
+  width:320px;
+  background-color:white;
+    float:left;
+    border-radius:20px;
+}
+.j{
+  height:450px;
+  width:320px;
+  background-color:white;
+    float:left;
+    border-radius:20px;
+}
+.k{
+  height:450px;
+  width:320px;
+  background-color:white;
+    float:left;
+    border-radius:20px;
+}
+.l{
+  height:450px;
+  width:320px;
+  background-color:white;
+    float:left;
+    border-radius:20px;
+}
+.m{
+  height:350px;
+  width:550px;
+  background-color:grey;
+    float:left;
+    border-radius:20px;
+}
+.n{
+  height:350px;
+  width:550px;
+  background-color:grey;
+    float:left;
+    border-radius:20px;
+}
+.abcd{
+  background-color: #B6EAFA;
+}
+.sub2{
+  float: right;
+}
+.sub3{
+  float: right;
+}
+.sub5{
+  float: right;
+}
+.sub8{
+  height:200px;
+  width:1200px;
+  background-color: pink;
+}
+.sub9{
+  float: left;
+}
+.sub10{
+  float: right;
+}
+.sub12{
+  float: center;
+}
